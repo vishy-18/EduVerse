@@ -12,7 +12,20 @@
           "package_name": "com.example.eduverse"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "318764554112-ghnnq6hdose7754cam1ekbsanv7vn1rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eduverse",
+            "certificate_hash": "b732d6a62cf2c5847390ef3e6dce0c4c297d3361"
+          }
+        },
+        {
+          "client_id": "318764554112-bcu8k79grfrirrlaqtiu20mdc9tbrrba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyC1IZhtMx6fkc6JvsexoZsoOCbXJ4vZVCs"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318764554112-bcu8k79grfrirrlaqtiu20mdc9tbrrba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318764554112-327dtkjr6sqo2jlmfgg9dm7ffdi31spm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eduverse"
+              }
+            }
+          ]
         }
       }
     }
